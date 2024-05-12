@@ -1,9 +1,8 @@
 ﻿# Adventure-the-travelling-website!
   Some Screenshots of the website
-(https://github.com/techpraveen/Adventure-the-travelling-website/assets/95954302/bc8eff91-5727-4d89-a335-29a856af376f)
 
-(https://github.com/techpraveen/Adventure-the-travelling-website/assets/95954302/bdb370d7-35ac-4378-a045-d4c941dfea64)
-
-(https://github.com/techpraveen/Adventure-the-travelling-website/assets/95954302/e7649edf-1496-41d4-a799-4daffce1ef85)
+![Screenshot (17)](https://github.com/techpraveen/Adventure-the-travelling-website/assets/95954302/d2a89317-ba28-4687-9de2-bac4297ac5c2)
 
 
+
+![Screenshot (18)](https://github.com/techpraveen/Adventure-the-travelling-website/assets/95954302/30c3a535-bf52-4fff-91c9-4214cbc076c5)

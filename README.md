@@ -6,3 +6,4 @@
 
 
 ![Screenshot (18)](https://github.com/techpraveen/Adventure-the-travelling-website/assets/95954302/30c3a535-bf52-4fff-91c9-4214cbc076c5)
+![Screenshot (19)](https://github.com/techpraveen/Adventure-the-travelling-website/assets/95954302/3a091d6d-e1d5-4d47-bea6-24f13f72e2ef)
